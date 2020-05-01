@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# CIT 281 Learning Outcomes
 
-You can use the [editor on GitHub](https://github.com/eitandavis/eitandavis.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 281 Project 3 Learning Outcomes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* A web API or *Application Programming Interface* is an API accessed using the HTTP protocol. Web API's often deliver data formatted as JSON.
+* A web API can be accessed programmatically using JavaScript. The API documentation must first be consulted in order to understand how the API works and what it returns.
+* Use jQuery to post AJAX requests asynchronously
+* Use the Postman app to test API requests/responses
+* Use NodeJS and Express for a testing server
+* Use jQuery, JavaScript, and public API's to fetch JSON data, then use it to refresh part of a web page
 
-### Markdown
+## 281 Project 2 Learning Outcomes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* A web API or *Application Programming Interface* is an API accessed using the HTTP protocol.
+* Web API's often deliver data formatted as JSON.
+* A web API can be accessed programmatically using JavaScript.
+* The API documentation must first be consulted in order to understand how the API works and what it returns.
+* Some web API's are public, and others require an access key. Flickr offers several public API's.
 
-```markdown
-Syntax highlighted code block
+## 281 Project 1 Learning Outcomes
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eitandavis/eitandavis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Basic Unix Shell commands
+* Install and Configure Git using the Unix Shell
+* Basic Git Commands (add, commit, push, clone)
+* Github overview
+* Markdown language for README files
+* JavaScript ES6+ features
